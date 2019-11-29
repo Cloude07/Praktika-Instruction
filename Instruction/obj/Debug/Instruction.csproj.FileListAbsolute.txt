@@ -1,0 +1,24 @@
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.ConectionForm.resources
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.MainForm.resources
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.Properties.Resources.resources
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.Zastavka.resources
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.csproj.GenerateResource.Cache
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\bin\Debug\Instruction.exe.config
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\bin\Debug\Instruction.exe
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\bin\Debug\Instruction.pdb
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.exe
+C:\Users\Cloude\Documents\Visual Studio 2015\Projects\Instruction\Instruction\obj\Debug\Instruction.pdb
+C:\Users\Cloude\Desktop\Instruction\Instruction\bin\Debug\Instruction.exe.config
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.exe
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.pdb
+C:\Users\Cloude\Desktop\Instruction\Instruction\bin\Debug\Instruction.exe
+C:\Users\Cloude\Desktop\Instruction\Instruction\bin\Debug\Instruction.pdb
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.csprojResolveAssemblyReference.cache
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.ConectionForm.resources
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.MainForm.resources
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.Properties.Resources.resources
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.Zastavka.resources
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.csproj.GenerateResource.Cache
+C:\Users\Cloude\Desktop\Instruction\Instruction\bin\Debug\RegistryLibrary.pdb
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.Role.resources
+C:\Users\Cloude\Desktop\Instruction\Instruction\obj\Debug\Instruction.Otzev.resources
